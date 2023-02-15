@@ -1,5 +1,5 @@
 ---
-title: Welcome to my blog
+YOOOOOO IT WORKS
 ---
 this is a test yknow
 # woah
