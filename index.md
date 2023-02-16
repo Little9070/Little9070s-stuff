@@ -1,5 +1,5 @@
 ---
-YOOOOOO IT WORKS
+title: YOOOOOO IT WORKS
 ---
 this is a test yknow
 # woah
