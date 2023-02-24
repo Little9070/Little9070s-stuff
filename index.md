@@ -7,7 +7,7 @@ I enjoy ripping music from video games, photography, Plants vs. Zombies, and pro
 
 # Featured articles
 
-- [Photography](https://little9070.github.io/Photography)
+- [Photography](https://little9070.github.io/Little9070s-stufff/Photography)
 
 - TBD
 
