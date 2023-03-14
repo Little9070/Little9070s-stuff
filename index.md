@@ -1,6 +1,5 @@
 ---
 title: Main Page
-permalink: /Main.html
 ---
 Hello! My name is *Little9070*, or just *Little* for short.
 
